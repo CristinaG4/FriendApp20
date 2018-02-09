@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FriendApp2.0</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_adapter">AdapterActivity</string>
+    <string name="title_activity_friend_detail">FriendDetailActivity</string>
+    <string name="descripcionRachel">Amiga de Monica desde la infancia. Ha pasado toda su niñez siendo consentida, por ser hija de padres ricos. Decide abandonar su buena vida y dedicarse a trabajar para ganar su sueldo.
+        Comienza trabajando de camarera en el Central Perk. Es extremadamente patosa y torpe, y es incapaz de concentrarse en algo que no le interese.</string>
+    <string name="descripcionMonica">Hermana de Ross, de pequeña era obesa pero adelgazó en su adolescencia cuando Chandler la llamó gorda.Es cocinera profesional, trabajando en diversos restaurantes a lo largo de la serie.
+        Mónica se caracteriza por su obsesión por el orden.</string>
+    <string name="descripcionPhoebe">Es la más distraída del grupo. También es quién tuvo la infancia más dura.Es un poco chiflada y rara y no duda en demostrarlo.
+        Considera normales cosas que los demás ven de locos.</string>
+    <string name="descripcionJoey">Joey es de origen italiano y tiene siete hermanas.
+        Es el menos inteligente del grupo y siempre tarda en entender lo que le dicen.</string>
+    <string name="descripcionRoss">Hermano mayor de Mónica. Doctor en paleontología. Se divorció de su mujer estando embarazada porque era lesbiana. Esta enamorado de Rachel.</string>
+    <string name="descripcionChandler">Chandler e s el sarcástico del grupo, forma de ser debida a su traumática infancia, con un padre homosexual, que después de divorciarse de su mujer se comenzaría a travestir.
+        Desde entonces, usa el sarcasmo y la ironía para reírse de todos y de todo. Odia el día de acción de gracias.</string>
+</resources>
